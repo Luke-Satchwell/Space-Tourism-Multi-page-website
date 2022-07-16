@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  background-image: url('../assets/destination/background-destination-desktop.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: #fff;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: "Zen Antique", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+h2{
+  font-size: 2rem;
+  padding-left: 60px;
+}
+
+p{
+  font-size: 1.5rem;
+  padding: 0;
+  padding-right: 60px;
+}
+
+li{
+  font-size: 1.5rem;
+  padding-top: 40px;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
+  padding: 40px;
+}
+
+.nav-item{
+  padding-right: 60px;
+}
+.nav-link{
+  /* color: #fff; */
+  font-size: 2rem;
+}
+.nav-link:hover{
+  /* color: #fff; */
+  text-decoration: underline;
+}
+
+.planet-nav{
+  color: gray;
+  font-size: 2rem;
+  padding-left: 120px;
+  text-decoration: underline;
+}
+.planet-image{
+  position: relative;
+  top: 50%;
+  left: 25%;
+}
